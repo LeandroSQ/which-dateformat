@@ -31,4 +31,7 @@ Simply pasting it on the input will run several formats against it and return th
 | Browserify | For bundling and compiling |
 | [Oracle DateTimeFormatter](https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html) | For date format specification |
 | [Talend data preparation user guid](https://help.talend.com/r/en-US/8.0/data-preparation-user-guide/list-of-date-and-date-time-formats) | For formats and examples |
+| [w3.org](https://www.w3.org/TR/NOTE-datetime) | For ISO8601 specification |
 | [FontAwesome](https://fontawesome.com/) | For icons |
+| [https://3widgets.com/](https://3widgets.com/) | For the Regex numeric range generator |
+| [Regex101](https://regex101.com/) | For testing regex |
